@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Weddingplanner/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Weddingplanner/static/js/main.a712795b.chunk.js",
+    "main.js.map": "/Weddingplanner/static/js/main.a712795b.chunk.js.map",
+    "runtime-main.js": "/Weddingplanner/static/js/runtime-main.021c5e2d.js",
+    "runtime-main.js.map": "/Weddingplanner/static/js/runtime-main.021c5e2d.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Weddingplanner/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.43b8afaa.chunk.js": "/Weddingplanner/static/js/2.43b8afaa.chunk.js",
+    "static/js/2.43b8afaa.chunk.js.map": "/Weddingplanner/static/js/2.43b8afaa.chunk.js.map",
+    "index.html": "/Weddingplanner/index.html",
+    "precache-manifest.11aab309fad9621e159f628d39cd55cc.js": "/Weddingplanner/precache-manifest.11aab309fad9621e159f628d39cd55cc.js",
+    "service-worker.js": "/Weddingplanner/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Weddingplanner/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Weddingplanner/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.43b8afaa.chunk.js.LICENSE": "/Weddingplanner/static/js/2.43b8afaa.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.021c5e2d.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.43b8afaa.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a712795b.chunk.js"
+  ]
+}

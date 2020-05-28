@@ -1,0 +1,10 @@
+const firebaseConfig = {
+    apiKey: "AIzaSyAk6bifdNspHpJiayRf1WVw0mNBN_7lf2g",
+    authDomain: "wp-database-d7c6f.firebaseapp.com",
+    databaseURL: "https://wp-database-d7c6f.firebaseio.com",
+    projectId: "wp-database-d7c6f",
+    storageBucket: "wp-database-d7c6f.appspot.com",
+    messagingSenderId: "76433547092",
+    appId: "1:76433547092:web:36a2db486b682d53f632c1",
+    measurementId: "G-GY12PRF563"
+  };
